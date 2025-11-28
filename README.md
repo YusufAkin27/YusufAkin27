@@ -105,10 +105,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusufAkin27&theme=light" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YusufAkin27&show_icons=true&theme=light" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufAkin27&layout=compact&theme=light" alt="Top Langs" />
-</p>
