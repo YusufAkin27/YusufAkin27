@@ -1,106 +1,113 @@
-<h1 align="center">👋 Merhaba, ben <b>Yusuf Akın</b></h1>
+<h1 align="center">
+  <img align="left" src="https://komarev.com/ghpvc/?username=YusufAkin27&label=Profile%20views&color=0e75b6&style=flat" alt="YusufAkin27" height="28px" />
+  Hi 👋, I'm Yusuf Akın
+  <a href="mailto:ysufakin23@gmail.com" align="right">
+    <img align="right" src="https://img.shields.io/badge/-Contact-0e75b6?style=flat&logo=gmail" alt="Contact" height="28px" />
+  </a>
+</h1>
+
+<br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Spring+Boot+Uzmanı;Mobile+Developer+(Android);Temiz+Kod+Savunucusu;Sürekli+%C3%B6%C4%9Frenen+bir+yaz%C4%B1l%C4%B1mc%C4%B1" />
+  <img src="https://i.gifer.com/3BBS.gif" alt="Hello World Animation">
 </p>
 
 <p align="center">
-  Modern backend mimarileri, RESTful servisler, mobil uygulamalar ve yüksek performanslı sistemler geliştiren bir yazılım geliştiricisiyim.
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=YusufAkin27&theme=light" alt="Yusuf Akın" />
+  </a>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YusufAkin27/YusufAkin27/output/github-snake.svg" alt="snake animation" width="100%" />
+</p>
 
-## 🚀 Hakkımda
+<h3 align="center">
+  About Me  
+  I am a backend & mobile-focused developer specializing in Java, Spring Boot, and Android development.  
+  I am passionate about building scalable systems, learning modern backend technologies, and improving software architecture.
+</h3>
 
-- 🎯 **Java & Spring Boot Backend Developer**
-- 📱 Android mobil geliştirme (Java / Kotlin temel)
-- 🛠 Temiz kod, domain-driven tasarım ve ölçeklenebilir mimarilere önem veririm  
-- 🌱 Şu sıralar: **Microservices**, **Docker**, **Cloud**, **Kafka** öğreniyorum  
-- ✨ Amacım: Daha hızlı, daha güvenli, daha ölçeklenebilir sistemler tasarlamak  
-- 😄 Beginner değil, “her zaman öğrenen bir developer”ım  
+<br>
 
----
+<h3 align="center">🌐 Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/yusuf-akin27" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="mailto:ysufakin23@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="30" />
+  </a>
+  <a href="https://www.instagram.com/yusufakiin27" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+</p>
 
-## 🔥 Yetenekler & Teknolojiler
+<br>
 
-### 🧠 Backend
-`Java` • `Spring Boot` • `REST API` • `JWT` • `Spring Security` •  
-`Microservices` • `Spring Data JPA` • `Docker` • `Maven`
-
-### 📱 Mobile
-`Android` • `Java` • `Flutter` • `Firebase`
-
-### 🗄️ Veritabanları
-`PostgreSQL` • `MySQL` • `MongoDB` • `Redis`
-
-### 🛠 Araçlar
-`Git` • `GitHub` • `IntelliJ IDEA` • `VS Code` • `Postman`
-
----
-
-## 📌 Öne Çıkan Projelerim
-
-### 🔧 **NFC card reader and writer**
-**[Proje Linki](https://github.com/YusufAkin27/nfc_card_writer)**  
-Kısaca:  
-- Kullanıcı yönetimi, JWT Security  
-- Temiz katmanlı mimari  
-- PostgreSQL + Docker Compose
-
----
-
-### 📱 **Android Mobil Uygulaması**
-**[Proje Linki](https://github.com/YusufAkin27/social_media)**  
-Kısaca:  
-- Modern Android mimarisi  
-- Firebase Authentication  
-- Gerçek zamanlı veritabanı
-
----
-
-### 🌐 **API Spring boot**
-**[Proje Linki](https://github.com/YusufAkin27/bincard)**  
-- Microservice tasarımı  
-- API Gateway  
-- Load balancing  
-- Dockerize edilmiş yapı
-
----
-
-## 📊 GitHub İstatistikleri
+<h3 align="center">🚀 Featured Projects:</h3>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/YusufAkin27/nfc_card_writer" target="_blank">
+    <img src="https://img.shields.io/badge/NFC%20Card%20Writer-0A66C2?style=for-the-badge&logo=android&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  NFC teknolojisiyle çalışan bir kart yazma uygulaması.  
+  Android & Java altyapılı bir mobil uygulama projesi.
 </p>
 
 ---
 
-## 🐍 Commit Yılan Animasyonu
-
 <p align="center">
-  <img src="https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg" />
+  <a href="https://github.com/YusufAkin27/social_media" target="_blank">
+    <img src="https://img.shields.io/badge/Social%20Media%20App-0A66C2?style=for-the-badge&logo=springboot&logoColor=white" />
+  </a>
 </p>
-
-> **Not:** Bu animasyonun çalışması için “output” isimli bir branch ve GitHub Actions pipeline gerekiyor. İstersen kurulumunu da sana yapayım.
+<p align="center">
+  Spring Boot tabanlı bir backend sosyal medya sistemi.  
+  Kullanıcı yönetimi, gönderiler, yorumlar, güvenlik ve daha fazlası.
+</p>
 
 ---
 
-## 📫 Bana Ulaş
+<p align="center">
+  <a href="https://github.com/YusufAkin27/bincard" target="_blank">
+    <img src="https://img.shields.io/badge/BinCard%20System-0A66C2?style=for-the-badge&logo=java&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  Java ile geliştirilmiş bir stok ve kart yönetim sistemi.  
+  Backend ağırlıklı bir kurumsal çözüm yaklaşımı.
+</p>
 
-- 📧 Email: **mail@ornek.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/kullanici-adi  
-- 🌐 Portfolio (varsa ekleyebilirsin)
+<br>
 
----
+<h3 align="center">🧰 Languages and Tools:</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" />
+</p>
 
-## ✨ Ufak Bir Not
+<br>
+
+<h3 align="center">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <b>“Kod yazmak değil, kodu anlamak gerçek beceridir.”</b>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusufAkin27&theme=light" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <i>Profilimi ziyaret ettiğin için teşekkür ederim 🙌</i><br/>
-  <i>Daha fazlası için takipte kal!</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=YusufAkin27&show_icons=true&theme=light" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufAkin27&layout=compact&theme=light" alt="Top Langs" />
 </p>
