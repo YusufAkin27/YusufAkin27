@@ -28,7 +28,7 @@
 `Microservices` • `Spring Data JPA` • `Docker` • `Maven`
 
 ### 📱 Mobile
-`Android` • `Java` • `Kotlin (temel)` • `Firebase`
+`Android` • `Java` • `Flutter` • `Firebase`
 
 ### 🗄️ Veritabanları
 `PostgreSQL` • `MySQL` • `MongoDB` • `Redis`
@@ -40,8 +40,8 @@
 
 ## 📌 Öne Çıkan Projelerim
 
-### 🔧 **Spring Boot Backend Projesi**
-**[Proje Linki](https://github.com/your-github-username/proje-1)**  
+### 🔧 **NFC card reader and writer**
+**[Proje Linki](https://github.com/YusufAkin27/nfc_card_writer)**  
 Kısaca:  
 - Kullanıcı yönetimi, JWT Security  
 - Temiz katmanlı mimari  
