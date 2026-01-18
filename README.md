@@ -13,12 +13,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YusufAkin27&theme=light" alt="Yusuf Akın" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
 </p>
 
