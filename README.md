@@ -1,102 +1,24 @@
-<h1 align="center">
-  <img align="left" src="https://komarev.com/ghpvc/?username=YusufAkin27&label=Profile%20views&color=0e75b6&style=flat" alt="YusufAkin27" height="28px" />
-  Hi 👋, I'm Yusuf Akın
-  <a href="mailto:ysufakin23@gmail.com" align="right">
-    <img align="right" src="https://img.shields.io/badge/-Contact-0e75b6?style=flat&logo=gmail" alt="Contact" height="28px" />
-  </a>
-</h1>
-
-<br>
-
-<p align="center">
-  <img src="https://i.gifer.com/3BBS.gif" alt="Hello World Animation">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
-</p>
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
-<h3 align="center">
-  About Me  
-  I am a backend & mobile-focused developer specializing in Java, Spring Boot, and Android development.  
-  I am passionate about building scalable systems, learning modern backend technologies, and improving software architecture.
-</h3>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yusufakin1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ysufakin23@gmail.com) 
 
-<br>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YusufAkin27&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=YusufAkin27&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufAkin27&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="center">🌐 Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/yusuf-akin27" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="mailto:ysufakin23@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="30" />
-  </a>
-  <a href="https://www.instagram.com/yusufakiin27" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=YusufAkin27&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<br>
-
-<h3 align="center">🚀 Featured Projects:</h3>
-
-<p align="center">
-  <a href="https://github.com/YusufAkin27/nfc_card_writer" target="_blank">
-    <img src="https://img.shields.io/badge/NFC%20Card%20Writer-0A66C2?style=for-the-badge&logo=android&logoColor=white" />
-  </a>
-</p>
-<p align="center">
-  NFC teknolojisiyle çalışan bir kart yazma uygulaması.  
-  Android & Java altyapılı bir mobil uygulama projesi.
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=YusufAkin27&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=YusufAkin27&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <a href="https://github.com/YusufAkin27/social_media" target="_blank">
-    <img src="https://img.shields.io/badge/Social%20Media%20App-0A66C2?style=for-the-badge&logo=springboot&logoColor=white" />
-  </a>
-</p>
-<p align="center">
-  Spring Boot tabanlı bir backend sosyal medya sistemi.  
-  Kullanıcı yönetimi, gönderiler, yorumlar, güvenlik ve daha fazlası.
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/YusufAkin27/bincard" target="_blank">
-    <img src="https://img.shields.io/badge/BinCard%20System-0A66C2?style=for-the-badge&logo=java&logoColor=white" />
-  </a>
-</p>
-<p align="center">
-  Java ile geliştirilmiş bir stok ve kart yönetim sistemi.  
-  Backend ağırlıklı bir kurumsal çözüm yaklaşımı.
-</p>
-
-<br>
-
-<h3 align="center">🧰 Languages and Tools:</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" />
-</p>
-
-<br>
-
-<h3 align="center">📊 GitHub Stats:</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusufAkin27&theme=light" alt="GitHub Streak" />
-</p>
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
